@@ -18,7 +18,7 @@ Write an ES6 class that does the following:
 * Given the code (2 characters) of a language, find out what countries are speaking it
 * Given a population (in millions), find out what countries have more people than that
 
-Countries APIs can be found here: [https://restcountries.eu/](https://restcountries.eu/)
+Countries APIs can be found here: [https://restcountries.com/](https://restcountries.com/#api-endpoints-v2-all)
 
 Test your code (to make sure it does the correct things) before creating PR.
 
